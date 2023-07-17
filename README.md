@@ -1,7 +1,5 @@
 # Image Editing Application
 
-![Image Editor]
-
 ## Overview
 
 This project is an interactive Image Editing Application built using Python and the Tkinter library. The application allows users to open images, perform various image editing operations, apply filters, adjust brightness, contrast, saturation, and more, providing a user-friendly graphical interface for image manipulation.
